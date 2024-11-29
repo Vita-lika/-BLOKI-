@@ -25,4 +25,8 @@ a = int(input("Введите число: "))
 otvet = round(math.fabs(a))
 print(f"Ваш ответ: {otvet}")
 
-
+import math
+a = int (input("Введенное число:"))
+primer = 5 * cos * y
+otvet = round(math.fabs(a))
+print(f"Ваш ответ:{otvet}")
