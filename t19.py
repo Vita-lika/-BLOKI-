@@ -5,7 +5,7 @@ print(x)
 x = -10
 print(x)
 
-# б) 
+
 x = 17.5
 print(x)
 
@@ -14,7 +14,7 @@ try:
 except NameError as e:
     print(e)
 
-# в) 
+ 
 x = 60
 print(x)
 
