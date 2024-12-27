@@ -31,4 +31,4 @@ print(f"{(not (x * y < 1)) and (y > x)}")
 # ж
 x = 2
 y = 1
-print(f"{(not(x * y < 0)) or (y > x)}")
+print(f"{(not (x * y < 0)) or (y > x)}")
