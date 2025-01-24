@@ -7,4 +7,3 @@ if x > 0:
 else:
     primer_two = 1 - 2 * sin(radians(x * x))
     print(f"Ответ: {primer_two}")
-    

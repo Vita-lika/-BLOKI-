@@ -16,4 +16,3 @@ try:
         print("Они равны")
 except NameError:
     print("Ошибка")
-    

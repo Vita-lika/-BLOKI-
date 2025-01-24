@@ -6,4 +6,3 @@ if x > y:
     print("больше:", x)
 elif y > x:
     print("больше:", y)
-    

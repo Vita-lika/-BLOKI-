@@ -6,4 +6,3 @@ elif x < 4:
     print("I четверть")
 else:
     print("Ошибка")
-    
